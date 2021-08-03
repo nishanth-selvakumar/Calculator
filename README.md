@@ -1,2 +1,2 @@
 # Calculator
-Just a normal calculator :Weary:
+Just a normal calculator 
